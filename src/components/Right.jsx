@@ -2,7 +2,7 @@ import NormalButton from "./NormalButton";
 
 const Right = () => {
     return (
-        <div className="bg-slate-500 p-6 flex gap-4 flex-col justify-center items-center">
+        <div className="bg-[#666666] p-6 flex gap-4 flex-col justify-center items-center">
             <h2 className="font-bold text-center text-lg">Trending songs</h2>
             <div className="flex flex-col gap-3">
                 <NormalButton />
